@@ -1,7 +1,7 @@
 .git
-project/.git
-project/.idea/
-project/content/
-project/models/
-project/venv/
-project/__pycache__/
+Implementation/Source Code/Python/.git
+Implementation/Source Code/Python/.idea/
+Implementation/Source Code/Python/content/
+Implementation/Source Code/Python/models/
+Implementation/Source Code/Python/venv/
+Implementation/Source Code/Python/__pycache__/
