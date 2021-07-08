@@ -1,0 +1,7 @@
+.git
+project/.git
+project/.idea/
+project/content/
+project/models/
+project/venv/
+project/__pycache__/

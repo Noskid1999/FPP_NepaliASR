@@ -1,0 +1,4 @@
+*python version required: 3.7
+*install pyenv using Chocolatey for Python3.7 installation
+Creation of venv: python -m venv .venv
+

@@ -1,0 +1,2 @@
+- training details/ steps to be documented
+- Report writing details

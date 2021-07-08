@@ -1,0 +1,3 @@
+report reading
+slides for product presentation max 10 slides
+decrease the core product to less size if possible preferrable less than 1gb
