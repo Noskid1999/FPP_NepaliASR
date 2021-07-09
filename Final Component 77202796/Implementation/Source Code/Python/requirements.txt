@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+transformers
+torchaudio
+librosa
+numpy
+jiwer
+datasets
+flask
+werkzeug
+python-dotenv
+pydub
